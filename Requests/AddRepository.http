@@ -1,0 +1,6 @@
+POST http://localhost:7000/api/repositories
+Content-Type: application/json
+
+{
+    "search": "shalex9/getprospect-server"
+}

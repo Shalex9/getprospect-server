@@ -1,0 +1,11 @@
+PUT http://localhost:7000/api/repositories/62434867ee47f9c26a1e0862
+Content-Type: application/json
+
+{
+    "projectname": "getprospect-client",
+    "projecturl": "https://api.github.com/users/Shalex9",
+    "stars": 35,
+    "forks": 35,
+    "issues": 35,
+    "created": "2022-03-29T07:22:12Z"
+}

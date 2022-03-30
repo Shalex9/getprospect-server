@@ -1,0 +1,6 @@
+DELETE http://localhost:7000/api/repositories
+Content-Type: application/json
+
+{
+    "id": "62432bc51a04f9cea5578bc4"
+}
