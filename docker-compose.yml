@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+
+  backend:
+    container_name: getprospect-server
+    build: ./
+    ports:
+      - 7000:7000
+    command: node index.js
